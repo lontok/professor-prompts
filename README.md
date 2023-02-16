@@ -15,3 +15,15 @@
 > Write learning objectives for an AI and {department} course at the **evaluating** level of Bloom’s Taxonomy using verbs like Appraise, Assess, Compare, Conclude, Contrast, Counsel, Criticize, Critique, Defend, Determine, Discriminate, Estimate, Evaluate, Explain, Grade, Hire, Interpret, Judge, Justify, Measure, Predict, Prescribe, Rank, Rate, Recommend, Release, Select, Summarize, Support, Test, Validate, Verify
 
 > Write learning objectives for an AI and {department} course at the **creating** level of Bloom’s Taxonomy using verbs like Abstract, Animate, Arrange, Assemble, Budget, Categorize, Code, Combine, Compile, Compose, Construct, Cope, Correspond, Create, Cultivate, Debug, Depict, Design, Develop, Devise, Dictate, Enhance, Explain, Facilitate, Format, Formulate, Generalize, Generate, Handle, Import, Improve, Incorporate, Integrate, Interface, Join, Lecture, Model, Modify, Network, Organize, Outline, Overhaul, Plan, Portray, Prepare, Prescribe, Produce, Program, Rearrange, Reconstruct, Relate, Reorganize, Revise, Rewrite, Specify, Summarize
+
+## Lesson Plan
+> Create a 1h40 minute lesson plan on the learning objective: "{learning objective}"
+
+## Course Schedule
+> Create a 16-week course schedule formatted as a table. Include recommended reading and homework assignments. There will be a midterm, final, and group presentations.
+
+## Class Activity
+> Write a 15-minute breakout session to help students understand {topic}. The students must produce a deliverable to present at the end of the session.
+
+## Assignments
+> Create a requirements document for the assignment: "{assignment}” Include a rubric.
