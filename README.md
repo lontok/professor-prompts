@@ -27,3 +27,13 @@
 
 ## Assignments
 > Create a requirements document for the assignment: "{assignment}” Include a rubric.
+
+## Syllabus
+> Write a syllabus for the AI and marketing course. Follow this checklist: "{checklist}"
+
+## Study Guide
+> Create a midterm study guide distributed by the instructor. Include strategies to do well on the exam.
+
+## Practice Problems
+> Provide 2 practice problems for each topic on the midterm study guide.
+
